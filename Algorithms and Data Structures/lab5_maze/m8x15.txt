@@ -1,0 +1,16 @@
+8 15
+XXXXOXXX
+X.....XX
+XX.....X
+XX..X..X
+XX.XX..X
+X..X...X
+X....X.X
+X.X..XXX
+XXX.X..X
+X....XXX
+X......X
+X.....XX
+XX.....X
+I..X...X
+XXXXXXXX

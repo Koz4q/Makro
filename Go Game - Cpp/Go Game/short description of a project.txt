@@ -1,0 +1,44 @@
+Project name: Go Game
+
+* Library that im using to handling the game is Allegro5.
+
+* Use of 4/7 topics:
+
+- inheritace
+- multiple inheritance
+- exeptions
+- streams
+
+* Streams will be used to give the option to save the current state of the game.
+For example: If we are going to close the game, board will be saved so when we are going to
+continue playing( run game one again ), there will be no need to start from the beginning.
+
+* Current classes:
+
+- Stone (returns the type of the stone that is going to be created)
+- Board (is responsible for operaiting the board, get current location of the stone on the board)
+- White (is responsible for the type of white stones)
+- Black (is responsible for the type of black stones)
+
+* Current functions:
+
+- mouse_click (is responsible for all of the mouse events, in our case: on left-click 
+stone are created on the right positions )
+- draw_board ( is responsible for creating the board(lines, colour) with the right cell size)
+- draw_stones (is responsible for drawing the stones(for the given mouse click that is recognized on the board))
+
+* Right now programme has basic actions on the board. Currently when mouse click is detected black or white
+stones are drawn on that position (colour of the stone are shifting after one is created).
+
+* What need to be added:
+
+- rules of go game. For example:
+	- when stone doesn't have any soul left, that stone is taken to the stockpile which is
+	going to be used at the end of the game
+	- option to surrender. When player surrenders, AI will answer the same and the points for 
+	the controled zone will be calculated
+- AI that are going to play against the player (current solutions (colour of the stone are shifting after 
+one is created) are going to be removed for the purpose of the AI)
+
+* There is possibility that new classes will be created for the purpose of making the code cleaner, like
+class that will be responsible for mouse_click or draw_stones

@@ -1,0 +1,3 @@
+﻿  50_100_150_tst.cpp
+E:\Visual\Programs\50_100_150_tst\50_100_150_tst.cpp(20): warning C4715: "choice”: niewszystkie ścieżki kodu zwracają wartość
+  50_100_150_tst.vcxproj -> E:\Visual\Programs\50_100_150_tst\Debug\50_100_150_tst.exe

@@ -1,0 +1,4 @@
+﻿  classes_1.cpp
+G:\Visual Studio\Programs\classes_1\classes_1.cpp(9,10): warning C4215: użyto niestandardowego rozszerzenia: long float
+G:\Visual Studio\Programs\classes_1\classes_1.cpp(10,10): warning C4215: użyto niestandardowego rozszerzenia: long float
+  classes_1.vcxproj -> G:\Visual Studio\Programs\classes_1\Debug\classes_1.exe

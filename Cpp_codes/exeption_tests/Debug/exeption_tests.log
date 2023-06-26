@@ -1,0 +1,3 @@
+﻿  exeption_tests.cpp
+E:\Visual\Programs\exeption_tests\exeption_tests.cpp(24,22): warning C4101: "me": lokalna zmienna, do której nie istnieje odwołanie
+  exeption_tests.vcxproj -> E:\Visual\Programs\exeption_tests\Debug\exeption_tests.exe

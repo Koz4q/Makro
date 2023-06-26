@@ -1,0 +1,8 @@
+﻿  ExeptionsLab.cpp
+E:\Visual\Programs\ExeptionsLab\ExeptionsLab.cpp(89,13): warning C4101: "age": lokalna zmienna, do której nie istnieje odwołanie
+E:\Visual\Programs\ExeptionsLab\ExeptionsLab.cpp(111,28): warning C4101: "d": lokalna zmienna, do której nie istnieje odwołanie
+E:\Visual\Programs\ExeptionsLab\ExeptionsLab.cpp(121,24): warning C4101: "a": lokalna zmienna, do której nie istnieje odwołanie
+E:\Visual\Programs\ExeptionsLab\ExeptionsLab.cpp(50): warning C4715: "Bar::party”: niewszystkie ścieżki kodu zwracają wartość
+E:\Visual\Programs\ExeptionsLab\ExeptionsLab.cpp(62): warning C4715: "Math::division”: niewszystkie ścieżki kodu zwracają wartość
+E:\Visual\Programs\ExeptionsLab\ExeptionsLab.cpp(70): warning C4715: "Math::area_of_square”: niewszystkie ścieżki kodu zwracają wartość
+  ExeptionsLab.vcxproj -> E:\Visual\Programs\ExeptionsLab\Debug\ExeptionsLab.exe

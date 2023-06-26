@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>lab5_maze</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>m15x15.txt</name>
+			<type>1</type>
+			<location>E:/Java-My/Eclipse-workspace/lab5/m15x15.txt</location>
+		</link>
+		<link>
+			<name>m5x5.txt</name>
+			<type>1</type>
+			<location>E:/Java-My/Eclipse-workspace/lab5/m5x5.txt</location>
+		</link>
+	</linkedResources>
+</projectDescription>

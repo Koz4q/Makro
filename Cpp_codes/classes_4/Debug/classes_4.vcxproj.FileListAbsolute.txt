@@ -1,0 +1,2 @@
+G:\Visual Studio\Programs\classes_4\Debug\classes_4.exe
+G:\Visual Studio\Programs\classes_4\Debug\classes_4.pdb
